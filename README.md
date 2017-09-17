@@ -1,5 +1,6 @@
 # component-scroll
-滚动条封装
+### 滚动条封装
+[链接](https://hsiangleev.github.io/component-scroll/scroll.html)
 
 * c_scroll(x,y)
 * 例: c_scroll(300,400)
